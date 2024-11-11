@@ -1,4 +1,4 @@
-# java-cli-grradle-blade-mysql-hibernate-simple
+# java-cli-gradle-blade-mysql-hibernate-simple
 
 ## Description
 Creates a small database table
